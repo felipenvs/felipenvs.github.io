@@ -1,1 +1,1 @@
-document.write("Teste");
+document.write("Olá Mundo!");
