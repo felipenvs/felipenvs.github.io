@@ -1,1 +1,1 @@
-document.write("Olá Mundo!");
+document.write("Página em Construção");
